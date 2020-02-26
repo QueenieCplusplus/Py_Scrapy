@@ -1,0 +1,7 @@
+$scrapy startproject QsSpider
+
+New Scrapy project 'QsSpider'
+
+You can start your first spider with:
+    cd QsSpider
+    scrapy genspider example example.com
